@@ -1,0 +1,9 @@
+# iCloudのボイスメモフォルダのパス
+watch_dir: "~/Library/Mobile Documents/com~apple~VoiceMemos/Documents"
+
+# 文字起こし結果の保存先
+output_dir: "~/Desktop/transcripts"
+
+# モデルサイズ: tiny / small / medium / large-v3
+# CPUのみのPCはmediumまで
+model_size: "medium"
